@@ -9,7 +9,6 @@
   <img alt="Fenil's Instagram" align="center" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://feniludesai.blogspot.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Fenil's Website" height="20" width="20" /></a>
-  ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=fenildesai&show_icons=true)
 </p>
 
 .NET Full Stack Developer | Cricketer | Passionate about building open source projects.
@@ -33,8 +32,9 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 
-<br />
-![Fenil's github stats](https://github-readme-stats.vercel.app/api?username=fenildesai&show_icons=true&hide_border=true)
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=fenildesai&show_icons=true alt=Fenil's Github Stats />
+</p>
 
 <!--
 **fenildesai/fenildesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
