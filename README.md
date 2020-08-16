@@ -9,7 +9,7 @@
   <img alt="Fenil's Instagram" align="center" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://feniludesai.blogspot.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Fenil's Website" height="20" width="20" /></a>
-  ![](https://visitor-badge.glitch.me/badge?page_id=fenildesai.fenildesai)
+  ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=fenildesai&show_icons=true)
 </p>
 
 .NET Full Stack Developer | Cricketer | Passionate about building open source projects.
