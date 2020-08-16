@@ -2,10 +2,7 @@
 <p align="center">
 <a href="https://github.com/fenildesai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Fenil's Github" height="20" width="20" /></a>
 <a href="https://twitter.com/fenildesai" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fenil's Twitter" height="20" width="20" /></a>
-  <a href="https://t.me/fenildesai">
-  <img alt="Fenil's Telegram" align="center" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/fenildesai/">
+<a href="https://www.instagram.com/feniludesai/" target="_blank">
   <img alt="Fenil's Instagram" align="center" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://feniludesai.blogspot.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Fenil's Website" height="20" width="20" /></a>
